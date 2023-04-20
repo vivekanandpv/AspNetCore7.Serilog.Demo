@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xGm2VG0MY44RIAqwGLP+BzSMn8HCrLaYWk4TfYEqiK4=",
+  "Source": "AspNetCore7.Serilog.Demo",
+  "BasePath": "_content/AspNetCore7.Serilog.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

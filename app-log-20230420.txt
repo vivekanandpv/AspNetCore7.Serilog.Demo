@@ -1,0 +1,17 @@
+2023-04-20 13:02:18.337 +05:30 [INF] Now listening on: http://localhost:5000
+2023-04-20 13:02:18.402 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-04-20 13:02:18.402 +05:30 [INF] Hosting environment: Development
+2023-04-20 13:02:18.403 +05:30 [INF] Content root path: /Users/vivekanandpv/RiderProjects/AspNetCore7.Serilog.Demo
+2023-04-20 13:02:27.860 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/sample application/json 100
+2023-04-20 13:02:27.895 +05:30 [INF] HTTP GET /api/sample responded 404 in 0.7302 ms
+2023-04-20 13:02:27.904 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/sample application/json 100 - 404 0 - 46.7409ms
+2023-04-20 13:02:37.316 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v1/sample application/json 100
+2023-04-20 13:02:37.320 +05:30 [INF] Executing endpoint 'AspNetCore7.Serilog.Demo.Controllers.SampleController.Get (AspNetCore7.Serilog.Demo)'
+2023-04-20 13:02:37.344 +05:30 [INF] Route matched with {action = "Get", controller = "Sample"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller AspNetCore7.Serilog.Demo.Controllers.SampleController (AspNetCore7.Serilog.Demo).
+2023-04-20 13:02:37.346 +05:30 [INF] This is from SampleController
+2023-04-20 13:02:37.350 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2023-04-20 13:02:37.355 +05:30 [INF] Executed action AspNetCore7.Serilog.Demo.Controllers.SampleController.Get (AspNetCore7.Serilog.Demo) in 5.3778ms
+2023-04-20 13:02:37.355 +05:30 [INF] Executed endpoint 'AspNetCore7.Serilog.Demo.Controllers.SampleController.Get (AspNetCore7.Serilog.Demo)'
+2023-04-20 13:02:37.355 +05:30 [INF] HTTP GET /api/v1/sample responded 200 in 37.3342 ms
+2023-04-20 13:02:37.356 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v1/sample application/json 100 - 200 0 - 39.8070ms
+2023-04-20 13:02:50.641 +05:30 [INF] Application is shutting down...
